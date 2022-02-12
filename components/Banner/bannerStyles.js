@@ -18,8 +18,8 @@ const bannerStyles = {
     height: '100%',
     paddingTop: '30px',
     paddingBottom: '15px',
-    paddingLeft: '28px',
-    paddingRight: '28px',
+    paddingLeft: '20px',
+    paddingRight: '20px',
     borderRadius: '21px 21px 0 0'
   },
   title: {
@@ -31,6 +31,7 @@ const bannerStyles = {
     color: '#fff'
   },
   p: {
+    marginTop: '407px',
     marginBottom: '30px',
     textAlign: 'center',
     fontSize: '15px',
