@@ -10,7 +10,7 @@ const bannerStyles = {
   column: {
     backgroundColor: '#fff',
     backgroundImage:
-      "url('https://res.cloudinary.com/npoipe/image/upload/v1644671358/email-template-apologies/banner_echcnc.jpg')",
+      "url('https://res.cloudinary.com/npoipe/image/upload/v1644673041/email-template-apologies/banner-short_gpkq7i.jpg')",
     backgroundRepeat: 'no-repeat',
     minWidth: '600px',
     width: '600px',
@@ -23,15 +23,23 @@ const bannerStyles = {
     borderRadius: '21px 21px 0 0'
   },
   title: {
-    marginBottom: '407px',
+    paddingBottom: '407px',
     textAlign: 'center',
     fontSize: '20px',
     fontWeight: 500,
     lineHeight: '120%',
     color: '#fff'
   },
+  pTop: {
+    // marginTop: '407px',
+    marginBottom: '30px',
+    textAlign: 'center',
+    fontSize: '15px',
+    fontWeight: 300,
+    lineHeight: '25px',
+    color: '#000'
+  },
   p: {
-    marginTop: '407px',
     marginBottom: '30px',
     textAlign: 'center',
     fontSize: '15px',
